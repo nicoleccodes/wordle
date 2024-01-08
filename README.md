@@ -1,1 +1,1 @@
-# worldle
+# wordle
